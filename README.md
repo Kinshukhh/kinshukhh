@@ -133,14 +133,13 @@ Privacy-first photo transfer over local Wi-Fi using gestures — no cloud, no ac
 
 ---
 
-## 🏆 Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kinshukhh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinshukhh&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
-
 ---
 
 ## 💼 Experience
