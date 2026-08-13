@@ -122,8 +122,6 @@ Privacy-first photo transfer over local Wi-Fi using gestures — no cloud, no ac
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kinshukhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshukhh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
