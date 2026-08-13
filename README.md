@@ -136,39 +136,6 @@ I'm passionate about building things that actually work in the real world — fr
 
 ---
 
-## 🗂️ Repo Structure
-
-```
-portfolio/
-├── assets/
-│   ├── drivesync.png
-│   ├── gestro.png
-│   ├── gestrodev.png
-│   ├── gestrowin.png
-│   ├── library.ico
-│   ├── qrlogger.png
-│   └── resume.pdf
-├── index.html
-├── styles.css
-├── scripts.js
-└── README.md
-```
-
----
-
-## 🚀 About This Repo
-
-This repository hosts my personal portfolio website — a static site deployed via **GitHub Pages**.
-
-**Tech used:**
-- Pure HTML, CSS & Vanilla JavaScript (no frameworks)
-- Showcases projects: Gestro, GestroWin, LibraryTracker, QRLogger, DriveSync, naai.co.in
-
-**To deploy:** Enable GitHub Pages on this repo → set source to `main` branch → root `/`.  
-Your site will be live at `https://kinshukhh.github.io/portfolio`
-
----
-
 ## 📞 Contact Me
 
 | Platform | Details |
