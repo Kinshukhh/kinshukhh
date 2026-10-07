@@ -18,7 +18,7 @@
 - 📱 Android & Software Developer — **Kotlin**, Python, React Native
 - 🔐 Security Tester at **Webtek Wizards** — finding flaws before they bite
 - 🎯 Led tech ops at MUN — **3,000+ scans**, 99% accuracy, zero downtime
-- 🧩 Co-building **TrackED** — NFC/QR event management platform
+- 🧩 Co-building **Kizonance** — NFC/QR event management platform
 - 📍 Panchkula, Haryana &nbsp;|&nbsp; 🟢 Open to Opportunities
 - 📬 **[kinshukaggarwalwork@gmail.com](mailto:kinshukaggarwalwork@gmail.com)**
 
@@ -67,14 +67,14 @@
 <tr>
 <td width="50%">
 
-### 🏷️ TrackED
+### 🏷️ Kizonance
 **Smart Campus Event Management**
 
 NFC + QR-based attendance platform enabling **sub-2-second check-ins**, real-time analytics, and automated reporting for large-scale campus events.
 
 `Kotlin` `NFC` `Firebase` `React Native` `Cloud Functions`
 
-🔗 [tracked.co.in](https://tracked.co.in)
+🔗 [Kizonance.com](https://Kizonance.com)
 
 </td>
 <td width="50%">
@@ -155,7 +155,7 @@ Privacy-first photo transfer over local Wi-Fi using gestures — no cloud, no ac
     ↳ Trained volunteers, set up scanning stations, real-time triage
 
 📌  Independent Android Developer                               2023 – Present
-    ↳ NAAI, Gestro, QRLogger, TrackED, DriveSync, GestroWin
+    ↳ NAAI, Gestro, QRLogger, Kizonance, DriveSync, GestroWin
 ```
 
 ---
