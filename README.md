@@ -182,7 +182,7 @@ Privacy-first photo transfer over local Wi-Fi using gestures — no cloud, no ac
 
 [![Email](https://img.shields.io/badge/Email-kinshukaggarwalwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinshukaggarwalwork@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91_7973387439-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917973387439)
-[![Website](https://img.shields.io/badge/Website-naai.co.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://naai.co.in)
+[![Website](https://img.shields.io/badge/Website-kizonance.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://kizonance.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://kinshukhh.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kinshukaggarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kinshukaggarwal)
 
